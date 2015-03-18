@@ -1,0 +1,14 @@
+F:\MJC\CSCI 222\CD Solution-Structure\CD Project\bin\Debug\CD Project.exe.config
+F:\MJC\CSCI 222\CD Solution-Structure\CD Project\bin\Debug\CD Project.exe
+F:\MJC\CSCI 222\CD Solution-Structure\CD Project\bin\Debug\CD Project.pdb
+F:\MJC\CSCI 222\CD Solution-Structure\CD Project\bin\Debug\CD Project.xml
+F:\MJC\CSCI 222\CD Solution-Structure\CD Project\obj\Debug\CD_Project.frmMain.resources
+F:\MJC\CSCI 222\CD Solution-Structure\CD Project\obj\Debug\CD_Project.Resources.resources
+F:\MJC\CSCI 222\CD Solution-Structure\CD Project\obj\Debug\CD Project.vbproj.GenerateResource.Cache
+F:\MJC\CSCI 222\CD Solution-Structure\CD Project\obj\Debug\CD Project.exe
+F:\MJC\CSCI 222\CD Solution-Structure\CD Project\obj\Debug\CD Project.xml
+F:\MJC\CSCI 222\CD Solution-Structure\CD Project\obj\Debug\CD Project.pdb
+F:\MJC\CSCI 222\UnzippedFiles\CD Solution-Structure\CD Solution-Structure\CD Project\bin\Debug\CD Project.exe.config
+F:\MJC\CSCI 222\UnzippedFiles\CD Solution-Structure\CD Solution-Structure\CD Project\obj\Debug\CD Project.exe
+F:\MJC\CSCI 222\UnzippedFiles\CD Solution-Structure\CD Solution-Structure\CD Project\obj\Debug\CD Project.xml
+F:\MJC\CSCI 222\UnzippedFiles\CD Solution-Structure\CD Solution-Structure\CD Project\obj\Debug\CD Project.pdb

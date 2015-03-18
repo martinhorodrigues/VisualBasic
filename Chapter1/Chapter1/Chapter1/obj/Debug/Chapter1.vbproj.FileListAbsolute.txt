@@ -1,0 +1,8 @@
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter1\Chapter1\bin\Debug\Chapter1.exe.config
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter1\Chapter1\obj\Debug\Chapter1.Form1.resources
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter1\Chapter1\obj\Debug\Chapter1.Resources.resources
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter1\Chapter1\obj\Debug\Chapter1.vbproj.GenerateResource.Cache
+F:\MJC\CMPSC 213\Chapter1\Chapter1\Chapter1\bin\Debug\Chapter1.exe.config
+F:\MJC\CMPSC 213\Chapter1\Chapter1\Chapter1\obj\Debug\Chapter1.Form1.resources
+F:\MJC\CMPSC 213\Chapter1\Chapter1\Chapter1\obj\Debug\Chapter1.Resources.resources
+F:\MJC\CMPSC 213\Chapter1\Chapter1\Chapter1\obj\Debug\Chapter1.vbproj.GenerateResource.Cache

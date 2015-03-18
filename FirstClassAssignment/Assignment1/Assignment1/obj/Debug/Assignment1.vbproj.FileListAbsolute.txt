@@ -1,0 +1,20 @@
+c:\users\jamie\documents\visual studio 2012\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+c:\users\jamie\documents\visual studio 2012\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+c:\users\jamie\documents\visual studio 2012\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+c:\users\jamie\documents\visual studio 2012\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.xml
+c:\users\jamie\documents\visual studio 2012\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+c:\users\jamie\documents\visual studio 2012\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.Resources.resources
+c:\users\jamie\documents\visual studio 2012\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.vbproj.GenerateResource.Cache
+c:\users\jamie\documents\visual studio 2012\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+c:\users\jamie\documents\visual studio 2012\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.xml
+c:\users\jamie\documents\visual studio 2012\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+F:\MJC\CMPSC 213\FirstClassAssignment\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+F:\MJC\CMPSC 213\FirstClassAssignment\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+F:\MJC\CMPSC 213\FirstClassAssignment\Assignment1\Assignment1\obj\Debug\Assignment1.xml
+F:\MJC\CMPSC 213\FirstClassAssignment\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+F:\MJC\CMPSC 213\FirstClassAssignment\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+F:\MJC\CMPSC 213\FirstClassAssignment\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+F:\MJC\CMPSC 213\FirstClassAssignment\Assignment1\Assignment1\bin\Debug\Assignment1.xml
+F:\MJC\CMPSC 213\FirstClassAssignment\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+F:\MJC\CMPSC 213\FirstClassAssignment\Assignment1\Assignment1\obj\Debug\Assignment1.Resources.resources
+F:\MJC\CMPSC 213\FirstClassAssignment\Assignment1\Assignment1\obj\Debug\Assignment1.vbproj.GenerateResource.Cache

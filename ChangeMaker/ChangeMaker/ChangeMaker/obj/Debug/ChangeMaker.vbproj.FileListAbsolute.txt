@@ -1,0 +1,20 @@
+c:\users\jamie\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.exe.config
+c:\users\jamie\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.exe
+c:\users\jamie\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.pdb
+c:\users\jamie\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.xml
+c:\users\jamie\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.Form1.resources
+c:\users\jamie\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.Resources.resources
+c:\users\jamie\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.vbproj.GenerateResource.Cache
+c:\users\jamie\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.exe
+c:\users\jamie\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.xml
+c:\users\jamie\documents\visual studio 2012\Projects\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.pdb
+F:\MJC\CMPSC 213\ChangeMaker\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.exe.config
+F:\MJC\CMPSC 213\ChangeMaker\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.exe
+F:\MJC\CMPSC 213\ChangeMaker\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.xml
+F:\MJC\CMPSC 213\ChangeMaker\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.pdb
+F:\MJC\CMPSC 213\ChangeMaker\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.exe
+F:\MJC\CMPSC 213\ChangeMaker\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.pdb
+F:\MJC\CMPSC 213\ChangeMaker\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.xml
+F:\MJC\CMPSC 213\ChangeMaker\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.Form1.resources
+F:\MJC\CMPSC 213\ChangeMaker\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.Resources.resources
+F:\MJC\CMPSC 213\ChangeMaker\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.vbproj.GenerateResource.Cache

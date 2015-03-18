@@ -1,0 +1,16 @@
+E:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\bin\Debug\CellPhonePackages.exe.config
+E:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\bin\Debug\CellPhonePackages.exe
+E:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\bin\Debug\CellPhonePackages.pdb
+E:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\bin\Debug\CellPhonePackages.xml
+E:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\obj\Debug\CellPhonePackages.frmCellPhonePackages.resources
+E:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\obj\Debug\CellPhonePackages.frmIndividualPlan.resources
+E:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\obj\Debug\CellPhonePackages.Resources.resources
+E:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\obj\Debug\CellPhonePackages.vbproj.GenerateResource.Cache
+E:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\obj\Debug\CellPhonePackages.exe
+E:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\obj\Debug\CellPhonePackages.xml
+E:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\obj\Debug\CellPhonePackages.pdb
+E:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\obj\Debug\CellPhonePackages.frmFamilyPlan.resources
+F:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\bin\Debug\CellPhonePackages.exe.config
+F:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\obj\Debug\CellPhonePackages.exe
+F:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\obj\Debug\CellPhonePackages.xml
+F:\MJC\CMPSC 213\CellPhonePackages\CellPhonePackages\obj\Debug\CellPhonePackages.pdb

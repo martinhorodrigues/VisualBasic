@@ -1,0 +1,12 @@
+F:\MJC\CSCI 222\Addison Playhouse Solution\Addison Playhouse Project\bin\Debug\Addison Playhouse Project.exe.config
+E:\MJC\CSCI 222\Addison Playhouse Solution\Addison Playhouse Project\bin\Debug\Addison Playhouse Project.exe.config
+E:\MJC\CSCI 222\Addison Playhouse Solution\Addison Playhouse Project\bin\Debug\Play.accdb
+E:\MJC\CSCI 222\Addison Playhouse Solution\Addison Playhouse Project\bin\Debug\Addison Playhouse Project.exe
+E:\MJC\CSCI 222\Addison Playhouse Solution\Addison Playhouse Project\bin\Debug\Addison Playhouse Project.pdb
+E:\MJC\CSCI 222\Addison Playhouse Solution\Addison Playhouse Project\bin\Debug\Addison Playhouse Project.xml
+E:\MJC\CSCI 222\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison_Playhouse_Project.frmMain.resources
+E:\MJC\CSCI 222\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison_Playhouse_Project.Resources.resources
+E:\MJC\CSCI 222\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison Playhouse Project.vbproj.GenerateResource.Cache
+E:\MJC\CSCI 222\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison Playhouse Project.exe
+E:\MJC\CSCI 222\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison Playhouse Project.xml
+E:\MJC\CSCI 222\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison Playhouse Project.pdb

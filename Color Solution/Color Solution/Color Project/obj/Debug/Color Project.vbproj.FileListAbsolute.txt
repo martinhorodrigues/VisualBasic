@@ -1,0 +1,14 @@
+C:\Users\Jamie\Desktop\Color Solution\Color Project\bin\Debug\Color Project.exe.config
+C:\Users\Jamie\Desktop\Color Solution\Color Project\bin\Debug\Color Project.exe
+C:\Users\Jamie\Desktop\Color Solution\Color Project\bin\Debug\Color Project.pdb
+C:\Users\Jamie\Desktop\Color Solution\Color Project\bin\Debug\Color Project.xml
+C:\Users\Jamie\Desktop\Color Solution\Color Project\obj\Debug\Color_Project.frmMain.resources
+C:\Users\Jamie\Desktop\Color Solution\Color Project\obj\Debug\Color_Project.Resources.resources
+C:\Users\Jamie\Desktop\Color Solution\Color Project\obj\Debug\Color Project.vbproj.GenerateResource.Cache
+C:\Users\Jamie\Desktop\Color Solution\Color Project\obj\Debug\Color Project.exe
+C:\Users\Jamie\Desktop\Color Solution\Color Project\obj\Debug\Color Project.xml
+C:\Users\Jamie\Desktop\Color Solution\Color Project\obj\Debug\Color Project.pdb
+F:\MJC\CSCI 222\UnzippedFiles\Color Solution\Color Solution\Color Project\bin\Debug\Color Project.exe.config
+F:\MJC\CSCI 222\UnzippedFiles\Color Solution\Color Solution\Color Project\obj\Debug\Color Project.exe
+F:\MJC\CSCI 222\UnzippedFiles\Color Solution\Color Solution\Color Project\obj\Debug\Color Project.xml
+F:\MJC\CSCI 222\UnzippedFiles\Color Solution\Color Solution\Color Project\obj\Debug\Color Project.pdb

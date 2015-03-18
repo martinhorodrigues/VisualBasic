@@ -1,0 +1,9 @@
+F:\MJC\CMPSC 213\SelectCase\SelectCase\bin\Debug\SelectCase.exe
+F:\MJC\CMPSC 213\SelectCase\SelectCase\bin\Debug\SelectCase.pdb
+F:\MJC\CMPSC 213\SelectCase\SelectCase\bin\Debug\SelectCase.xml
+F:\MJC\CMPSC 213\SelectCase\SelectCase\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\MJC\CMPSC 213\SelectCase\SelectCase\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\MJC\CMPSC 213\SelectCase\SelectCase\obj\x86\Debug\SelectCase.vbproj.GenerateResource.Cache
+F:\MJC\CMPSC 213\SelectCase\SelectCase\obj\x86\Debug\SelectCase.exe
+F:\MJC\CMPSC 213\SelectCase\SelectCase\obj\x86\Debug\SelectCase.xml
+F:\MJC\CMPSC 213\SelectCase\SelectCase\obj\x86\Debug\SelectCase.pdb

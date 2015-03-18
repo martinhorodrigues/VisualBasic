@@ -1,0 +1,29 @@
+t:\my documents\visual studio 2010\Projects\03122014.2\03122014.2\bin\Debug\03122014.2.exe
+t:\my documents\visual studio 2010\Projects\03122014.2\03122014.2\bin\Debug\03122014.2.pdb
+t:\my documents\visual studio 2010\Projects\03122014.2\03122014.2\bin\Debug\03122014.2.xml
+t:\my documents\visual studio 2010\Projects\03122014.2\03122014.2\obj\x86\Debug\ResolveAssemblyReference.cache
+t:\my documents\visual studio 2010\Projects\03122014.2\03122014.2\obj\x86\Debug\_03122014._2.Form1.resources
+t:\my documents\visual studio 2010\Projects\03122014.2\03122014.2\obj\x86\Debug\_03122014._2.Resources.resources
+t:\my documents\visual studio 2010\Projects\03122014.2\03122014.2\obj\x86\Debug\GenerateResource.read.1.tlog
+t:\my documents\visual studio 2010\Projects\03122014.2\03122014.2\obj\x86\Debug\GenerateResource.write.1.tlog
+t:\my documents\visual studio 2010\Projects\03122014.2\03122014.2\obj\x86\Debug\03122014.2.exe
+t:\my documents\visual studio 2010\Projects\03122014.2\03122014.2\obj\x86\Debug\03122014.2.xml
+t:\my documents\visual studio 2010\Projects\03122014.2\03122014.2\obj\x86\Debug\03122014.2.pdb
+E:\MJC\CMPSC 213\ListBox\03122014.2\obj\x86\Debug\03122014.2.exe
+E:\MJC\CMPSC 213\ListBox\03122014.2\obj\x86\Debug\03122014.2.xml
+E:\MJC\CMPSC 213\ListBox\03122014.2\obj\x86\Debug\03122014.2.pdb
+E:\MJC\CMPSC 213\ListBox\03122014.2\bin\Debug\03122014.2.exe
+E:\MJC\CMPSC 213\ListBox\03122014.2\bin\Debug\03122014.2.pdb
+E:\MJC\CMPSC 213\ListBox\03122014.2\bin\Debug\03122014.2.xml
+E:\MJC\CMPSC 213\ListBox\03122014.2\obj\x86\Debug\_03122014._2.Form1.resources
+E:\MJC\CMPSC 213\ListBox\03122014.2\obj\x86\Debug\_03122014._2.Resources.resources
+E:\MJC\CMPSC 213\ListBox\03122014.2\obj\x86\Debug\03122014.2.vbproj.GenerateResource.Cache
+F:\MJC\CMPSC 213\ListBox\03122014.2\obj\x86\Debug\03122014.2.exe
+F:\MJC\CMPSC 213\ListBox\03122014.2\obj\x86\Debug\03122014.2.xml
+F:\MJC\CMPSC 213\ListBox\03122014.2\obj\x86\Debug\03122014.2.pdb
+F:\MJC\CMPSC 213\ListBox\03122014.2\bin\Debug\03122014.2.exe
+F:\MJC\CMPSC 213\ListBox\03122014.2\bin\Debug\03122014.2.pdb
+F:\MJC\CMPSC 213\ListBox\03122014.2\bin\Debug\03122014.2.xml
+F:\MJC\CMPSC 213\ListBox\03122014.2\obj\x86\Debug\_03122014._2.Form1.resources
+F:\MJC\CMPSC 213\ListBox\03122014.2\obj\x86\Debug\_03122014._2.Resources.resources
+F:\MJC\CMPSC 213\ListBox\03122014.2\obj\x86\Debug\03122014.2.vbproj.GenerateResource.Cache

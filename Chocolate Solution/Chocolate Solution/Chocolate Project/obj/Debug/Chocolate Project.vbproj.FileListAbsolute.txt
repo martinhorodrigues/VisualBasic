@@ -1,0 +1,24 @@
+F:\MJC\CSCI 222\VB2012\Chap09\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.exe.config
+F:\MJC\CSCI 222\VB2012\Chap09\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.exe
+F:\MJC\CSCI 222\VB2012\Chap09\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.pdb
+F:\MJC\CSCI 222\VB2012\Chap09\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.xml
+F:\MJC\CSCI 222\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate_Project.frmMain.resources
+F:\MJC\CSCI 222\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate_Project.Resources.resources
+F:\MJC\CSCI 222\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.vbproj.GenerateResource.Cache
+F:\MJC\CSCI 222\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.exe
+F:\MJC\CSCI 222\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.xml
+F:\MJC\CSCI 222\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.pdb
+F:\MJC\CSCI 222\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.exe.config
+F:\MJC\CSCI 222\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.exe
+F:\MJC\CSCI 222\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.xml
+F:\MJC\CSCI 222\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.pdb
+F:\MJC\CSCI 222\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.exe
+F:\MJC\CSCI 222\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.pdb
+F:\MJC\CSCI 222\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.xml
+F:\MJC\CSCI 222\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate_Project.frmMain.resources
+F:\MJC\CSCI 222\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate_Project.Resources.resources
+F:\MJC\CSCI 222\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.vbproj.GenerateResource.Cache
+F:\MJC\CSCI 222\UnzippedFiles\Chocolate Solution\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.exe.config
+F:\MJC\CSCI 222\UnzippedFiles\Chocolate Solution\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.exe
+F:\MJC\CSCI 222\UnzippedFiles\Chocolate Solution\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.xml
+F:\MJC\CSCI 222\UnzippedFiles\Chocolate Solution\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.pdb

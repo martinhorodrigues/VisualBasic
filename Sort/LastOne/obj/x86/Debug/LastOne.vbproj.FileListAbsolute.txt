@@ -1,0 +1,9 @@
+F:\MJC\CMPSC 213\LastOne\LastOne\obj\x86\Debug\LastOne.Form1.resources
+F:\MJC\CMPSC 213\LastOne\LastOne\obj\x86\Debug\LastOne.Resources.resources
+F:\MJC\CMPSC 213\LastOne\LastOne\obj\x86\Debug\LastOne.vbproj.GenerateResource.Cache
+F:\MJC\CMPSC 213\LastOne\LastOne\bin\Debug\LastOne.exe
+F:\MJC\CMPSC 213\LastOne\LastOne\bin\Debug\LastOne.pdb
+F:\MJC\CMPSC 213\LastOne\LastOne\bin\Debug\LastOne.xml
+F:\MJC\CMPSC 213\LastOne\LastOne\obj\x86\Debug\LastOne.exe
+F:\MJC\CMPSC 213\LastOne\LastOne\obj\x86\Debug\LastOne.xml
+F:\MJC\CMPSC 213\LastOne\LastOne\obj\x86\Debug\LastOne.pdb

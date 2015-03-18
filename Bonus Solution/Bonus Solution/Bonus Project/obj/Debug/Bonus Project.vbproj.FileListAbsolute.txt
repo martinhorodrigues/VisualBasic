@@ -1,0 +1,2 @@
+F:\MJC\CSCI 222\VB2012\Chap08\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe.config
+F:\MJC\CSCI 222\UnzippedFiles\Bonus Solution\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe.config

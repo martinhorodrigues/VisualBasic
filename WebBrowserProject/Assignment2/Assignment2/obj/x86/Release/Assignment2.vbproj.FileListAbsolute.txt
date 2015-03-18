@@ -1,0 +1,15 @@
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\Assignment2\Assignment2\bin\Release\Assignment2.exe
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\Assignment2\Assignment2\bin\Release\Assignment2.pdb
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\Assignment2\Assignment2\bin\Release\Assignment2.xml
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\Assignment2\Assignment2\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\Assignment2\Assignment2\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\Assignment2\Assignment2\obj\x86\Release\Assignment2.vbproj.GenerateResource.Cache
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\Assignment2\Assignment2\obj\x86\Release\Assignment2.exe
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\Assignment2\Assignment2\obj\x86\Release\Assignment2.xml
+C:\Users\Jamie\Documents\Visual Studio 2012\Projects\Assignment2\Assignment2\obj\x86\Release\Assignment2.pdb
+F:\MJC\CMPSC 213\WebBrowserProject\Assignment2\Assignment2\obj\x86\Release\Assignment2.exe
+F:\MJC\CMPSC 213\WebBrowserProject\Assignment2\Assignment2\obj\x86\Release\Assignment2.xml
+F:\MJC\CMPSC 213\WebBrowserProject\Assignment2\Assignment2\obj\x86\Release\Assignment2.pdb
+F:\MJC\CMPSC 213\WebBrowserProject\Assignment2\Assignment2\obj\x86\Release\WindowsApplication1.Form1.resources
+F:\MJC\CMPSC 213\WebBrowserProject\Assignment2\Assignment2\obj\x86\Release\WindowsApplication1.Resources.resources
+F:\MJC\CMPSC 213\WebBrowserProject\Assignment2\Assignment2\obj\x86\Release\Assignment2.vbproj.GenerateResource.Cache

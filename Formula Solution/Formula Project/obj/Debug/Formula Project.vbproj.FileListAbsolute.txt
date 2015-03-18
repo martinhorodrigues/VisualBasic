@@ -1,0 +1,14 @@
+F:\MJC\CSCI 222\Formula Solution\Formula Project\bin\Debug\Formula Project.exe.config
+F:\MJC\CSCI 222\Formula Solution\Formula Project\bin\Debug\Formula Project.exe
+F:\MJC\CSCI 222\Formula Solution\Formula Project\bin\Debug\Formula Project.pdb
+F:\MJC\CSCI 222\Formula Solution\Formula Project\bin\Debug\Formula Project.xml
+F:\MJC\CSCI 222\Formula Solution\Formula Project\obj\Debug\Formula_Project.frmMain.resources
+F:\MJC\CSCI 222\Formula Solution\Formula Project\obj\Debug\Formula_Project.Resources.resources
+F:\MJC\CSCI 222\Formula Solution\Formula Project\obj\Debug\Formula Project.vbproj.GenerateResource.Cache
+F:\MJC\CSCI 222\Formula Solution\Formula Project\obj\Debug\Formula Project.exe
+F:\MJC\CSCI 222\Formula Solution\Formula Project\obj\Debug\Formula Project.xml
+F:\MJC\CSCI 222\Formula Solution\Formula Project\obj\Debug\Formula Project.pdb
+F:\MJC\CSCI 222\UnzippedFiles\Formula Solution\Formula Project\bin\Debug\Formula Project.exe.config
+F:\MJC\CSCI 222\UnzippedFiles\Formula Solution\Formula Project\obj\Debug\Formula Project.exe
+F:\MJC\CSCI 222\UnzippedFiles\Formula Solution\Formula Project\obj\Debug\Formula Project.xml
+F:\MJC\CSCI 222\UnzippedFiles\Formula Solution\Formula Project\obj\Debug\Formula Project.pdb

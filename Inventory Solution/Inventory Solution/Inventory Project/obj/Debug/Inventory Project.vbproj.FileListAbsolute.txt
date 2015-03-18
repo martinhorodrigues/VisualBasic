@@ -1,0 +1,24 @@
+F:\MJC\CSCI 222\VB2012\Chap09\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.exe.config
+F:\MJC\CSCI 222\VB2012\Chap09\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.exe
+F:\MJC\CSCI 222\VB2012\Chap09\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.pdb
+F:\MJC\CSCI 222\VB2012\Chap09\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.xml
+F:\MJC\CSCI 222\VB2012\Chap09\Inventory Solution\Inventory Project\obj\Debug\Inventory_Project.frmMain.resources
+F:\MJC\CSCI 222\VB2012\Chap09\Inventory Solution\Inventory Project\obj\Debug\Inventory_Project.Resources.resources
+F:\MJC\CSCI 222\VB2012\Chap09\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.vbproj.GenerateResource.Cache
+F:\MJC\CSCI 222\VB2012\Chap09\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.exe
+F:\MJC\CSCI 222\VB2012\Chap09\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.xml
+F:\MJC\CSCI 222\VB2012\Chap09\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.pdb
+F:\MJC\CSCI 222\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.exe.config
+F:\MJC\CSCI 222\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.exe
+F:\MJC\CSCI 222\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.xml
+F:\MJC\CSCI 222\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.pdb
+F:\MJC\CSCI 222\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.exe
+F:\MJC\CSCI 222\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.pdb
+F:\MJC\CSCI 222\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.xml
+F:\MJC\CSCI 222\Inventory Solution\Inventory Project\obj\Debug\Inventory_Project.frmMain.resources
+F:\MJC\CSCI 222\Inventory Solution\Inventory Project\obj\Debug\Inventory_Project.Resources.resources
+F:\MJC\CSCI 222\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.vbproj.GenerateResource.Cache
+F:\MJC\CSCI 222\UnzippedFiles\Inventory Solution\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.exe.config
+F:\MJC\CSCI 222\UnzippedFiles\Inventory Solution\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.exe
+F:\MJC\CSCI 222\UnzippedFiles\Inventory Solution\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.xml
+F:\MJC\CSCI 222\UnzippedFiles\Inventory Solution\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.pdb

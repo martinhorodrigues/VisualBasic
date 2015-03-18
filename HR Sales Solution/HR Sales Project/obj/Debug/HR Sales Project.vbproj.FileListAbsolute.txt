@@ -1,0 +1,16 @@
+F:\MJC\CSCI 222\VB2012\Chap14\HR Sales Solution\HR Sales Project\bin\Debug\HR Sales Project.exe.config
+F:\MJC\CSCI 222\HR Sales Solution\HR Sales Project\bin\Debug\HR Sales Project.exe.config
+F:\MJC\CSCI 222\HR Sales Solution\HR Sales Project\bin\Debug\Sales.accdb
+F:\MJC\CSCI 222\HR Sales Solution\HR Sales Project\bin\Debug\HR Sales Project.exe
+F:\MJC\CSCI 222\HR Sales Solution\HR Sales Project\bin\Debug\HR Sales Project.pdb
+F:\MJC\CSCI 222\HR Sales Solution\HR Sales Project\bin\Debug\HR Sales Project.xml
+F:\MJC\CSCI 222\HR Sales Solution\HR Sales Project\obj\Debug\HR_Sales_Project.frmMain.resources
+F:\MJC\CSCI 222\HR Sales Solution\HR Sales Project\obj\Debug\HR_Sales_Project.Resources.resources
+F:\MJC\CSCI 222\HR Sales Solution\HR Sales Project\obj\Debug\HR Sales Project.vbproj.GenerateResource.Cache
+F:\MJC\CSCI 222\HR Sales Solution\HR Sales Project\obj\Debug\HR Sales Project.exe
+F:\MJC\CSCI 222\HR Sales Solution\HR Sales Project\obj\Debug\HR Sales Project.xml
+F:\MJC\CSCI 222\HR Sales Solution\HR Sales Project\obj\Debug\HR Sales Project.pdb
+E:\MJC\CSCI 222\UnzippedFiles\HR Sales Solution\HR Sales Project\bin\Debug\HR Sales Project.exe.config
+E:\MJC\CSCI 222\UnzippedFiles\HR Sales Solution\HR Sales Project\obj\Debug\HR Sales Project.exe
+E:\MJC\CSCI 222\UnzippedFiles\HR Sales Solution\HR Sales Project\obj\Debug\HR Sales Project.xml
+E:\MJC\CSCI 222\UnzippedFiles\HR Sales Solution\HR Sales Project\obj\Debug\HR Sales Project.pdb

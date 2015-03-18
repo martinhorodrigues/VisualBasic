@@ -1,0 +1,8 @@
+E:\MJC\CSCI 222\Game\Cards\bin\Debug\Cards.dll
+E:\MJC\CSCI 222\Game\Cards\bin\Debug\Cards.pdb
+E:\MJC\CSCI 222\Game\Cards\bin\Debug\Cards.xml
+E:\MJC\CSCI 222\Game\Cards\obj\Debug\Cards.Resources.resources
+E:\MJC\CSCI 222\Game\Cards\obj\Debug\CardsProject.vbproj.GenerateResource.Cache
+E:\MJC\CSCI 222\Game\Cards\obj\Debug\Cards.dll
+E:\MJC\CSCI 222\Game\Cards\obj\Debug\Cards.xml
+E:\MJC\CSCI 222\Game\Cards\obj\Debug\Cards.pdb

@@ -1,0 +1,31 @@
+C:\Users\fh111\AppData\Local\Temporary Projects\Metrics\bin\Debug\Metrics.exe
+C:\Users\fh111\AppData\Local\Temporary Projects\Metrics\bin\Debug\Metrics.pdb
+C:\Users\fh111\AppData\Local\Temporary Projects\Metrics\bin\Debug\Metrics.xml
+C:\Users\fh111\AppData\Local\Temporary Projects\Metrics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fh111\AppData\Local\Temporary Projects\Metrics\obj\x86\Debug\Metrics.Form1.resources
+C:\Users\fh111\AppData\Local\Temporary Projects\Metrics\obj\x86\Debug\Metrics.Resources.resources
+C:\Users\fh111\AppData\Local\Temporary Projects\Metrics\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fh111\AppData\Local\Temporary Projects\Metrics\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fh111\AppData\Local\Temporary Projects\Metrics\obj\x86\Debug\Metrics.exe
+C:\Users\fh111\AppData\Local\Temporary Projects\Metrics\obj\x86\Debug\Metrics.xml
+C:\Users\fh111\AppData\Local\Temporary Projects\Metrics\obj\x86\Debug\Metrics.pdb
+t:\my documents\visual studio 2010\Projects\Metrics\Metrics\obj\x86\Debug\Metrics.exe
+t:\my documents\visual studio 2010\Projects\Metrics\Metrics\obj\x86\Debug\Metrics.xml
+t:\my documents\visual studio 2010\Projects\Metrics\Metrics\obj\x86\Debug\Metrics.pdb
+t:\my documents\visual studio 2010\Projects\Metrics\Metrics\bin\Debug\Metrics.exe
+t:\my documents\visual studio 2010\Projects\Metrics\Metrics\bin\Debug\Metrics.pdb
+t:\my documents\visual studio 2010\Projects\Metrics\Metrics\bin\Debug\Metrics.xml
+t:\my documents\visual studio 2010\Projects\Metrics\Metrics\obj\x86\Debug\ResolveAssemblyReference.cache
+t:\my documents\visual studio 2010\Projects\Metrics\Metrics\obj\x86\Debug\Metrics.Form1.resources
+t:\my documents\visual studio 2010\Projects\Metrics\Metrics\obj\x86\Debug\Metrics.Resources.resources
+t:\my documents\visual studio 2010\Projects\Metrics\Metrics\obj\x86\Debug\GenerateResource.read.1.tlog
+t:\my documents\visual studio 2010\Projects\Metrics\Metrics\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\MJC\CMPSC 213\Metrics\Metrics\Metrics\obj\x86\Debug\Metrics.exe
+F:\MJC\CMPSC 213\Metrics\Metrics\Metrics\obj\x86\Debug\Metrics.xml
+F:\MJC\CMPSC 213\Metrics\Metrics\Metrics\obj\x86\Debug\Metrics.pdb
+F:\MJC\CMPSC 213\Metrics\Metrics\Metrics\bin\Debug\Metrics.exe
+F:\MJC\CMPSC 213\Metrics\Metrics\Metrics\bin\Debug\Metrics.pdb
+F:\MJC\CMPSC 213\Metrics\Metrics\Metrics\bin\Debug\Metrics.xml
+F:\MJC\CMPSC 213\Metrics\Metrics\Metrics\obj\x86\Debug\Metrics.Form1.resources
+F:\MJC\CMPSC 213\Metrics\Metrics\Metrics\obj\x86\Debug\Metrics.Resources.resources
+F:\MJC\CMPSC 213\Metrics\Metrics\Metrics\obj\x86\Debug\Metrics.vbproj.GenerateResource.Cache

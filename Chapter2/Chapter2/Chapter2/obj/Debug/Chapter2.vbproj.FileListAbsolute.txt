@@ -1,0 +1,20 @@
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.exe.config
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.exe
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.pdb
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.xml
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.Form1.resources
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.Resources.resources
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.vbproj.GenerateResource.Cache
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.exe
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.xml
+c:\users\jamie\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.pdb
+F:\MJC\CMPSC 213\Chapter2\Chapter2\Chapter2\bin\Debug\Chapter2.exe.config
+F:\MJC\CMPSC 213\Chapter2\Chapter2\Chapter2\obj\Debug\Chapter2.exe
+F:\MJC\CMPSC 213\Chapter2\Chapter2\Chapter2\obj\Debug\Chapter2.xml
+F:\MJC\CMPSC 213\Chapter2\Chapter2\Chapter2\obj\Debug\Chapter2.pdb
+F:\MJC\CMPSC 213\Chapter2\Chapter2\Chapter2\bin\Debug\Chapter2.exe
+F:\MJC\CMPSC 213\Chapter2\Chapter2\Chapter2\bin\Debug\Chapter2.pdb
+F:\MJC\CMPSC 213\Chapter2\Chapter2\Chapter2\bin\Debug\Chapter2.xml
+F:\MJC\CMPSC 213\Chapter2\Chapter2\Chapter2\obj\Debug\Chapter2.Form1.resources
+F:\MJC\CMPSC 213\Chapter2\Chapter2\Chapter2\obj\Debug\Chapter2.Resources.resources
+F:\MJC\CMPSC 213\Chapter2\Chapter2\Chapter2\obj\Debug\Chapter2.vbproj.GenerateResource.Cache

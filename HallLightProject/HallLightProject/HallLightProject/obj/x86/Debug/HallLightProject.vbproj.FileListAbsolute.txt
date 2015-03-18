@@ -1,0 +1,25 @@
+t:\my documents\visual studio 2010\projects\HallLightProject\HallLightProject\bin\Debug\HallLightProject.exe
+t:\my documents\visual studio 2010\projects\HallLightProject\HallLightProject\bin\Debug\HallLightProject.pdb
+t:\my documents\visual studio 2010\projects\HallLightProject\HallLightProject\bin\Debug\HallLightProject.xml
+t:\my documents\visual studio 2010\projects\HallLightProject\HallLightProject\obj\x86\Debug\ResolveAssemblyReference.cache
+t:\my documents\visual studio 2010\projects\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.Form1.resources
+t:\my documents\visual studio 2010\projects\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.Resources.resources
+t:\my documents\visual studio 2010\projects\HallLightProject\HallLightProject\obj\x86\Debug\GenerateResource.read.1.tlog
+t:\my documents\visual studio 2010\projects\HallLightProject\HallLightProject\obj\x86\Debug\GenerateResource.write.1.tlog
+t:\my documents\visual studio 2010\projects\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.exe
+t:\my documents\visual studio 2010\projects\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.xml
+t:\my documents\visual studio 2010\projects\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.pdb
+F:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.exe
+F:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.xml
+F:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.pdb
+F:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\bin\Debug\HallLightProject.exe
+F:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\bin\Debug\HallLightProject.pdb
+F:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\bin\Debug\HallLightProject.xml
+F:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.Form1.resources
+F:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.Resources.resources
+F:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.exe
+E:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.xml
+E:\MJC\CMPSC 213\HallLightProject\HallLightProject\HallLightProject\obj\x86\Debug\HallLightProject.pdb
